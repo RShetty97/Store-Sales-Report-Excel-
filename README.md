@@ -3,12 +3,12 @@ This is an Excel Project that analyzes the sales of a retail store. This report 
 
 Tasks performed:
 
-Data Cleaning
-Fixed mismatches in column 'Gender' and 'Qty'
+Data Cleaning:
+Fixed mismatches in column 'Gender' and 'Qty'. 
 Converted the case in the state and city columns to proper case
 
-Data Processing
-Created column 'Age group' to group customers by age
+Data Processing:
+Created column 'Age group' to group customers by age. 
 Extracted the month into a separate column from the date column
 
 Data Analysis
